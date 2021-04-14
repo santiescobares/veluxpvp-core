@@ -1,0 +1,5 @@
+name: Core
+author: VeluxPvP's Development Team
+version: 1.0
+softdepend: [LunarClient-API]
+main: club.veluxpvp.core.Core

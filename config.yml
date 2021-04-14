@@ -1,0 +1,11 @@
+CHAT:
+  MUTED: false
+  DELAY: 3
+DATABASE:
+  HOST: "localhost"
+  PORT: 3306
+  NAME: "VeluxPvP"
+  AUTH:
+    USERNAME: "root"
+    PASSWORD: ""
+  TABLE_PREFIX: "core_"
